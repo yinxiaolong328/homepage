@@ -1,0 +1,47 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/services
+- SLN: 
+    - watcher: 
+        icon: http://sln.cn/assets/img/favicon/icn_watcher.ico
+        href: http://sln.cn/watcher/jinnan/
+        description: 学校生活ウォッチャー
+    - admin: 
+        icon: http://sln.cn/assets/img/favicon/icn_school_admin.ico
+        href: http://sln.cn/admin/jinnan/login
+        description: 学校管理
+    - center: 
+        icon: http://sln.cn/assets/img/favicon/icn_center_admin.ico
+        href: http://sln.cn/center/C4th_IT/
+        description: 自治体管理
+    - system: 
+        icon: http://sln.cn/assets/img/favicon/icn_system_admin.ico
+        href: http://sln.cn/system/
+        description: システム設定
+- 公司:
+    - 帐票:
+        icon: https://pm.educom.co.jp/trac/SLN/chrome/common/trac.ico
+        href: https://pm.educom.co.jp/trac/SLN/query?owner=qianpeipei&owner=zhuhongqian&owner=liu&status=accepted&status=ask&status=assigned&col=id&col=summary&col=status&col=type&col=priority&col=milestone&col=component&order=priority
+        description: 帐票查询
+    - OA:
+        href: https://oa.newcondata.cn/common/cmn001.do
+        description: 公司OA系统
+    - 日报:
+        href: http://ribao.ntnikka.com/faces/login.xhtml
+        description: 公司日报系统
+- 旁路由:
+    - istoreos:
+        icon: https://www.istoreos.com/favicon.ico
+        href: http://192.168.31.2
+- NAS:
+    - 黑群晖:
+        icon: https://www.synology.cn/img/icon/favicon@2x.png
+        href: http://192.168.31.69
+- VPN:
+    - wlyuming:
+        href: https://wlyuming.com/
+        description: VPN工具
+    - SPEEDCAT:
+        href: https://v0120230910.sctaff.com/auth/login##
+        description: VPN工具
+

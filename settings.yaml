@@ -1,0 +1,37 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/settings
+title: 内网服务
+theme: dark # or light
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey
+
+layout:
+    公司:
+        style: row
+        columns: 4
+    SLN:
+        style: row
+        columns: 4
+    旁路由:
+    NAS:
+    开发工具:
+        style: row
+        columns: 2
+    源码学习:
+        style: row
+        columns: 2
+    技术文档:
+        style: row
+        columns: 2
+    视频书签:
+    实用系统搭建:
+        style: row
+        columns: 2
+    有意思的站点:
+        style: row
+        columns: 2
+    VPN:
+    
+    

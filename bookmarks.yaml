@@ -1,0 +1,47 @@
+- 开发工具:
+    - Github:
+      - icon: https://github.com/favicon.ico
+        href: https://github.com/
+        description: 代码平台
+    - Stackoverflow:
+      - icon: https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico
+        href: https://stackoverflow.com
+        description: 问答社区
+- 源码学习: 
+    - Laravel:
+      - abbr: laravel
+        href: http://www.idocloud.net/pttl/index.html
+        description: Laravel框架底层的实现细节
+- 技术文档: 
+    - 易有云:
+      - abbr: 易有云
+        icon: https://doc.linkease.com/favicon.ico
+        href: https://doc.linkease.com/
+        description: 内网穿透工具
+    - Laravel:
+      - abbr: 社区
+        href: https://learnku.com/laravel
+      
+- 视频书签:
+    - YouTube:
+      - abbr: 油管
+        href: https://youtube.com/
+    - Bilibili:
+      - abbr: B站
+        href: https://www.bilibili.com/
+    - 阿里云盘分享:
+      - abbr: 热播影视
+        href: https://pan666.net/d/247714-top
+- 有意思的站点: 
+  - CHATGPT:
+    - abbr: 智能AI
+      href: https://chat.openai.com/
+  - Halo-theme-joe2.0:
+    - abbr: 博客
+      href: https://bbchin.com/
+      description: 基于halo的博客主题
+- 实用系统搭建:
+  - 黑群晖搭建:
+    - abbr: 黑群晖
+      href: https://www.bilibili.com/read/cv18654898/
+      description: 老旧笔记本安装（升级）黑群晖7.1
